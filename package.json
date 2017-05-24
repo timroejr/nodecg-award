@@ -1,0 +1,27 @@
+{  
+   "name":"nodecg-award",
+   "version":"0.0.1",
+   "authors":[  
+      "Timothy 'TJ' Roe, Jr. <troe@roeboatcorp.com>"
+   ],
+   "license":"MIT",
+   "nodecg":{  
+      "compatibleRange":"~0.8.0",
+      "graphics":[  
+         {  
+            "file":"index.html",
+            "width":1920,
+            "height":1080
+         }
+      ],
+      "dashboardPanels":[  
+         {  
+            "name":"award",    
+            "title":"Award",
+            "width":2,
+            "file":"award.html",
+            "headerColor":"#2196f3"
+         }
+      ]
+   }
+}

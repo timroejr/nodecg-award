@@ -1,9 +1,1 @@
-{
-    "name": "nodecg-awards",
-    "dependencies": {
-        "animate.css": "^3.2.0",
-        "jquery": "^2.1.0",
-        "ionsound": "^1.3.0",
-        "gsap": "^1.12.0"
-    }
-}
+{"name":"nodecg-award","dependencies":{"animate.css":"^3.2.0","jquery":"^2.1.0","ionsound":"^1.3.0","gsap":"^1.12.0","paper-button":"^1.0.12","paper-input":"^1.0.11"}}

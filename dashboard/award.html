@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+	<link rel="import" href="components/paper-button/paper-button.html">
+	<link rel="import" href="components/paper-input/paper-input.html">
+	<link rel="import" href="components/paper-input/paper-textarea.html">
+	<script src="components/jquery/dist/jquery.min.js"></script>
+	<style is="custom-style">
+		#title {
+			--paper-input-container: {
+				padding-top: 0;
+			}
+		}
+		.row {
+			display: flex;
+		}
+		paper-button {
+			flex: 1;
+			min-width: 1px;
+		}
+	</style>
+</head>
+<body>
+	<paper-textarea id="body" label="Award" always-float-label rows="4" max-rows="4"></paper-textarea>
+	<div class="row">
+		<paper-button id="show" class="nodecg-success" raised style="margin-left: 0;">Show</paper-button>
+		<paper-button id="hide" class="nodecg-danger" raised style="margin-right: 0;">Hide</paper-button>
+	</div>
+	<script src="award.js"></script>
+
+</body>
+</html>
