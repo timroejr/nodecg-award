@@ -1,23 +1,23 @@
-#About
+# About
 This is a Award Notification System for NodeCG that was developed for Live Streaming with Open Broadcast Software to work with Gaming and Sporting events alike. This was used for an awards assembly at Western Christian High School.
 
-#Installation
+# Installation
 Install to nodecg/bundles/ folder on your computer.
 If you haven't already downloaded NodeCG you can do so [here](https://github.com/nodecg/nodecg)
 
-#Demo
+# Demo
 [Click Here](https://gfycat.com/NeighboringIdenticalBlowfish)
 
-#Credits
+# Credits
 - Timothy "TJ" Roe, Jr. Developer of NodeCG-Award Bundle
 - [Western Christian Schools](http://westernchristian.org/) for the permission to use the "WC" Logo.
 	
-#Declaration of Faith
+# Declaration of Faith
 This Bundle was created to give Glory and Honor to God, In Heaven and on Earth.
 "Whatever you do, work heartily, as for the Lord and not for men, knowing that from the Lord you will receive the inheritance as your reward. You are serving the Lord Christ." Colossians 3:23-24 ESV
     
-#License
-Copyright (c) 2016 Timothy 'TJ' Roe, Jr.
+# License
+Copyright (c) 2017 Timothy 'TJ' Roe, Jr.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -37,5 +37,5 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
-#Contact
+# Contact
 For questions or comments regarding this bundle for NodeCG please contact the developer at <troe@roeboatcorp.com>
